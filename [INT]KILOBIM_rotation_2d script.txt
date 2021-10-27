@@ -1,3 +1,3 @@
-!!!!!!!! colocar o código abaixo na linha 1
+!!!!!!!! colocar o código abaixo na linha 1 - GDL 2D Script
 
 project2 3,270,0
